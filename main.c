@@ -5,12 +5,12 @@
 **  Daniel Rodrigues Silveira Freitas 145782
 **        
 **  Programa implementa um reservatorio de agua inteligente, que 
-**	utiliza sensores para medicao do nivel de agua e utiliza LEDs
-**	e um buzzer para emitir informacoes sobre as medicoes. O motor
-**	é utilizado como representacao de uma bomba d'água, que eh 
-**	desligado quando o nivel de agua atinge seu nivel maximo permitido.
-** 	Alem disso, sua velocidade eh gradativamente reduzida enquanto o
-**	reservatorio eh enchido.
+**  utiliza sensores para medicao do nivel de agua e utiliza LEDs
+**  e um buzzer para emitir informacoes sobre as medicoes. O motor
+**  é utilizado como representacao de uma bomba d'água, que eh 
+**  desligado quando o nivel de agua atinge seu nivel maximo permitido.
+**  Alem disso, sua velocidade eh gradativamente reduzida enquanto o
+**  reservatorio eh enchido.
 ** ===================================================================*/
 
 /*!
